@@ -1,4 +1,0 @@
-/home/yonggan/CLionProjects/FASS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yonggan/CLionProjects/FASS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/yonggan/CLionProjects/FASS/cmake-build-debug/CMakeFiles/FASS.dir
-/home/yonggan/CLionProjects/FASS/cmake-build-debug/CMakeFiles/FASS_autogen.dir

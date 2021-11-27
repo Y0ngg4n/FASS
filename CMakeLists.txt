@@ -13,7 +13,7 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(FASS main.cpp)
+add_executable(FASS main.cpp main.h utils/config.cpp utils/config.h)
 target_link_libraries(FASS
         Qt::Core
         Qt::Gui
