@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/FASS.dir/FASS_autogen/mocs_compilation.cpp.o CMakeFiles/FASS.dir/main.cpp.o -o FASS  /usr/lib/libQt6Widgets.so.6.2.1 /usr/lib/libQt6Gui.so.6.2.1 /usr/lib/libQt6Core.so.6.2.1 -pthread /usr/lib/libGLX.so /usr/lib/libOpenGL.so 
