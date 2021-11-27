@@ -7,4 +7,16 @@
 
 int main(int argc, char *argv[]);
 
+class Main {
+public:
+    enum PMType {
+        apt,
+        pacman
+    };
+
+    int start(int argc, char *argv[]);
+
+    Main::PMType getPMType(QString command);
+};
+
 #endif //FASS_MAIN_H
