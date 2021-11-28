@@ -13,7 +13,7 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(FASS main.cpp main.h utils/config.cpp utils/config.h package_managers/PackageManager.cpp package_managers/PackageManager.h package_managers/Apt.cpp package_managers/Apt.h package_managers/Pacman.cpp package_managers/Pacman.h)
+add_executable(FASS main.cpp main.h utils/config.cpp utils/config.h package_managers/PackageManager.cpp package_managers/PackageManager.h package_managers/Apt.cpp package_managers/Apt.h package_managers/Pacman.cpp package_managers/Pacman.h utils/border_layout.h utils/border_layout.cpp)
 target_link_libraries(FASS
         Qt::Core
         Qt::Gui
